@@ -10,7 +10,7 @@ Steps to run:-
 3. Run the project by using cmd command:-
   npm run start
   
-4. By using postman you can test the employees CRUD operation.
+4. By using http://localhost:3000/employees ,In postman you can test the employees CRUD operation.
 
 Note:- 
 
